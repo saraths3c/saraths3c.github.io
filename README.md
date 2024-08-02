@@ -1,1 +1,1 @@
-<h1> Welocme to my page<h2>
+<h1> Welcome to my page<h2>
